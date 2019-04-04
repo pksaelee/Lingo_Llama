@@ -1,2 +1,2 @@
-# lingoLlama
+# Lingo Llama
 Language website (beta).
